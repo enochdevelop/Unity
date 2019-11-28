@@ -1,3 +1,4 @@
 # Flappy Bird Challenge
 
-![birdy](https://user-images.githubusercontent.com/52798209/69773629-55f76d00-1161-11ea-975e-93687349df8a.gif)
+![birdy (2)](https://user-images.githubusercontent.com/52798209/69774342-b4254f80-1163-11ea-8122-593f59ea90c0.gif)
+
