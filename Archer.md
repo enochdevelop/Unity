@@ -1,3 +1,4 @@
 #Obstacle Game
 
-![archer](https://user-images.githubusercontent.com/52798209/69773483-01ec8880-1161-11ea-8a89-9615441e387b.gif)
+![archer (2)](https://user-images.githubusercontent.com/52798209/69773821-f188dd80-1161-11ea-8af3-ec89022796c2.gif)
+
